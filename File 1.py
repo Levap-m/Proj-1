@@ -1,2 +1,2 @@
-prnt ( "Hello, World!" )
+print ( "Hello, World!" )
 # 1st
